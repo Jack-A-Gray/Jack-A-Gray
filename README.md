@@ -3,7 +3,7 @@
 ### I am a Business Analytics and Information Systems major at the University of Iowa. I am set to graduate in May of 2025. 
 
 ### Connect With Me:
-[Iowa City badge](https://img.shields.io/static/v1?message=IA&logo=google-maps&labelColor=ffcd00&color=000000&logoColor=black&label=Iowa%20City&style=for-the-badge)[![LinkedIn][linkedin-badge]][linkedin-url][![Website][website-badge]][website-url]
+![University of Iowa](https://img.shields.io/static/v1?message=Hawks!!&labelColor=000000&color=FFCD00&label=Go&style=flat)[![LinkedIn][linkedin-badge]][linkedin-url][![Website][website-badge]][website-url]
 
 [linkedin-badge]: https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white
 [linkedin-url]: [https://www.linkedin.com/in/mike-olsen-b7b7821ba/](https://www.linkedin.com/in/jackgray2025/)
